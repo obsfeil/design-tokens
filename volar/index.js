@@ -1,3 +1,4 @@
+// @ts-nocheck
 const { walkElementNodes } = require('@volar/vue-language-core')
 const { camelCase } = require('scule')
 
