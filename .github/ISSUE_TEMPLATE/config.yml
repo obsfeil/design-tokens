@@ -1,6 +1,6 @@
 contact_links:
   - name: 📚 Documentation
-    url: https://nuxt-design-tokens.netlify.app
+    url: https://registry.npmjs.org
     about: Check documentation for usage
   - name: 💬 Discussions
     url: https://github.com/nuxt-community/design-tokens-module/discussions
